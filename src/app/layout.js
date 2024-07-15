@@ -4,7 +4,7 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Text-to-Speech Converter',
+  title: 'OpenAI Text to Speech',
   description: 'Convert text to speech using OpenAI API',
 }
 
