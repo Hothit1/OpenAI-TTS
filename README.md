@@ -14,7 +14,7 @@ To install the OpenAI Text to Speech Converter, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/openai-text-to-speech.git
+   git clone https://github.com/Hothit1/OpenAI-TTS.git
    ```
 2. Navigate to the project directory:
    ```
